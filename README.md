@@ -39,9 +39,6 @@
 
 ---
 
-[![Milad's github stats](https://github-readme-stats.vercel.app/api?username=MiladFarazian&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladFarazian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://miladfarazian.com
 [twitter]: https://twitter.com/miladfarazian
 [youtube]: https://youtube.com/miladfarazian
