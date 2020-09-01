@@ -68,7 +68,7 @@
 [jquery]: https://github.com/topics/jquery
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miladfarazian&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiladFarazian&show_icons=true&theme=Gradient" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladFarazian&layout=compact" />
