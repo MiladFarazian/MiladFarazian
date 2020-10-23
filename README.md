@@ -3,7 +3,7 @@
 ## I'm a Student, Software Developer, and Team Player!
 
 - 🌱 I’m currently learning new courses on Artificial Intelligence & Ethics and Algorithms
-- 👯 I’m looking to collaborate with other software developers on a meaningful project
+- 👯 I’m looking to collaborate with other software developers on meaningful projects
 - 🥅 2020 Goals: Gain the neccesary skills to enhance my understanding of Data Science and Machine Learning
 - ⚡ Fun fact: I love swimming and going to the beach. I like to dance too!
 
