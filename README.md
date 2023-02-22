@@ -1,9 +1,9 @@
 ### Hi there, I'm [Milad][website] 👋
 
-## I'm a Student, Software Developer, and Team Player!
+## I'm a Software Developer and Team Player!
 
 - 👯 I’m looking to collaborate with other software developers on meaningful projects
-- 🥅 2021 Goals: Begin to work full-time as part of a team and expand, improving my knowledge of how to use Git and Jira
+- 🥅 2023 Goals: Get accepted into a Machine Learning masters program
 - ⚡ Fun fact: I love swimming and going to the beach. I like to dance too!
 
 ### Connect with me:
