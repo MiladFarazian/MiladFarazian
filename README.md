@@ -3,7 +3,7 @@
 ## I'm a Software Developer and Team Player!
 
 - 👯 I’m looking to collaborate with other software developers on meaningful projects
-- 🥅 2023 Goals: Succeed at USC in my Machine Learning/Artificial Intelligence Program and Expand into Running a Startup
+- 🥅 2024 Goals: Work on projects that show my grasp of complex AI concepts
 - ⚡ Fun fact: I love swimming and going to the beach. I like to dance too!
 
 ### Connect with me:
