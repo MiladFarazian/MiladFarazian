@@ -3,13 +3,12 @@
 ## I'm a Software Developer and Team Player!
 
 - 👯 I’m looking to collaborate with other software developers on meaningful projects
-- 🥅 2024 Goals: Work on projects that show my grasp of complex AI concepts
+- 🥅 2024 Goals: Work on projects that show my grasp of complex AI concepts and get a New Grad role
 - ⚡ Fun fact: I love swimming and going to the beach. I like to dance too!
 
 ### Connect with me:
 
 [<img align="left" alt="miladfarazian.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="miladfarazian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="miladfarazian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="miladfarazian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
