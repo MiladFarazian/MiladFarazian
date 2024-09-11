@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate with other software developers on meaningful projects
 - 🥅 2024 Goals: Work on projects that show my grasp of complex AI concepts and get a New Grad role
-- ⚡ Fun fact: I love swimming and going to the beach. I like to dance too!
+- ⚡ Fun fact: I love swimming and going to the beach. I like to dance too
 
 ### Connect with me:
 
