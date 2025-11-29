@@ -2,7 +2,7 @@
 
 ## I'm a AI/Software Engineer leveraging AI to build the future I want to see
 - 👯 I love working with clients on technical issues they're experience, and I constantly adapt to problem we're facing
-- 🥅 2026 Goals: User-test and Release Parkzy on mobile app stores + find meaningful work at a large/mid-size company here in LA
+- 🥅 2026 Goals: User-test and Release Parkzy on mobile app stores + find meaningful work at a large/mid-size company in LA
 - ⚡ Fun fact: I'm always down to trying something new. I don't leave any stone unturned
 
 ### Connect with me:
@@ -60,9 +60,6 @@
 
 <a href="https://github.com/MiladFarazian/park-and-sync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiladFarazian&repo=park-and-sync" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 
