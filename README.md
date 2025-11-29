@@ -58,7 +58,7 @@
 [jquery]: https://github.com/topics/jquery
 [cplusplus]: https://github.com/topics/cplusplus
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MiladFarazian/park-and-sync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiladFarazian&repo=park-and-sync" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
