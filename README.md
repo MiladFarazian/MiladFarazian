@@ -1,10 +1,9 @@
 ### Hi there, I'm [Milad][website] 👋
 
-## I'm a Software Developer and Team Player!
-
-- 👯 I’m looking to collaborate with other software developers on meaningful projects
-- 🥅 2024 Goals: Work on projects that show my grasp of complex AI concepts and get a New Grad role
-- ⚡ Fun fact: I love swimming and going to the beach. I like to dance too!
+## I'm a AI/Software Engineer leveraging AI to build the future I want to see
+- 👯 I love working with clients on technical issues they're experience, and I constantly adapt to problem we're facing
+- 🥅 2026 Goals: User-test and Release Parkzy on mobile app stores + find meaningful work at a large/mid-size company here in LA
+- ⚡ Fun fact: I'm always down to trying something new. I don't leave any stone unturned
 
 ### Connect with me:
 
@@ -39,13 +38,8 @@
 ---
 
 [website]: https://miladfarazian.com
-[twitter]: https://twitter.com/miladfarazian
-[youtube]: https://youtube.com/miladfarazian
 [instagram]: https://instagram.com/miladfarazian
 [linkedin]: https://linkedin.com/in/miladfarazian
-[nothing]: https://github.com/MiladFarazian
-[edx]: https://courses.edx.org/courses/course-v1:HarvardX+PH526x+2T2020/course/
-[mosh]: https://codewithmosh.com/courses/enrolled/887220
 
 [vscode]: https://github.com/topics/vscode
 [html]: https://github.com/topics/html
