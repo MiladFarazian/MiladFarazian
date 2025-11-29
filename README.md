@@ -64,13 +64,7 @@
 [jquery]: https://github.com/topics/jquery
 [cplusplus]: https://github.com/topics/cplusplus
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiladFarazian&hide=issues&show_icons=true&theme=Gradient" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladFarazian&layout=compact" />
-</a>     
-
+[![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladFarazian)](https://github.com/MiladFarazian/github-readme-stats)
 
 
 
