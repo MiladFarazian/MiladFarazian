@@ -1,7 +1,7 @@
 ### Hi there, I'm [Milad][website] 👋
 
 ## I'm a AI/Software Engineer leveraging AI to build the future I want to see
-- 👯 I love working with clients on technical issues they're experience, and I constantly adapt to problem we're facing
+- 👯 I love working with clients on technical issues they experience, constantly adapting to problem we're facing
 - 🥅 2026 Goals: User-test and Release Parkzy on mobile app stores
 - ⚡ Fun fact: I'm always down to trying something new. I don't leave any stone unturned
 
