@@ -15,4 +15,4 @@ TypeScript · React · Node.js · Python · PostgreSQL/Supabase · Swift/SwiftUI
 
 ### Find me
 
-[miladfarazian.com](https://miladfarazian.com) · [LinkedIn](https://linkedin.com/in/miladfarazian) · miladfarazian@gmail.com
+[farazian.com](https://farazian.com) · [miladfarazian.com](https://miladfarazian.com) · [LinkedIn](https://linkedin.com/in/miladfarazian) · miladfarazian@gmail.com
